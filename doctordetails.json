@@ -21,21 +21,21 @@
         "img": "https://i.ibb.co/gyNVznS/portrait-hansome-young-male-doctor-man-171337-5068.jpg"
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Dr. Vincent Kokko",
         "price": "180",
         "skills": "Critical Care Medicine Specialists",
         "img": " https://i.ibb.co/vY2rHBg/Portrait-of-confident-mature-black-doctor-consulting-digital-tablet-and-looking-at-camera-Smiling-af.jpg"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Dr. Wyatt Nickisch",
         "price": "100",
         "skills": "Endocrinologists",
         "img": "https://i.ibb.co/f4cC9Rb/Portrait-of-happy-mature-medical-doctor-standing-against-white-background.jpg"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "Dr. Timothy Prowant",
         "price": "300",
         "skills": "Allergists/Immunologists",
