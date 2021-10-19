@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1",
+    "name": "Blood-Sugar-Machine",
+    "price": "300",
+    "img": "https://i.ibb.co/m8XDh6L/Blood-Sugar-Machine.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Napa-Extend-Tablet",
+    "price": "100",
+    "img": "https://i.ibb.co/kmcmGXf/Napa-Extend-Tablet-665-mg.jpg"
+  },
+  {
+    "id": "3",
+    "name": "hand-sanitizer",
+    "price": "150",
+    "img": "https://i.ibb.co/gPh7mhS/0210411-sepnil-instant-hand-sanitizer-500ml-550.jpg"
+  },
+  {
+    "id": "4",
+    "name": "face-mask",
+    "price": "180",
+    "img": " https://i.ibb.co/JvPmK6L/Gear-Graf-Lantz-Zenbu-face-mask.jpg"
+  }]
