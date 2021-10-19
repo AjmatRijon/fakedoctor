@@ -1,20 +1,20 @@
 { "docdetails":[
     {
-        "id": 1,
+        "id": "1",
         "name": "Dr. Emiliano Edemann",
         "price": "300",
         "skills": "Anesthesiologists",
         "img": "https://i.ibb.co/6wGxKQB/attractive-male-doctor-in-front-of-medical-group.jpg"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Dr. Harry Fongeallaz",
         "price": "100",
         "skills": "Cardiologists",
         "img": "https://i.ibb.co/yyf7DMH/images-q-tbn-ANd9-Gc-S-f-Ga9-Y0-F1uh0-Zv-Y3zm-UTgm-QO99aja92z-K8-Q-usqp-CAU.jpg"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Dr. Phillip Glossner",
         "price": "150",
         "skills": "Colon and Rectal Surgeons",
